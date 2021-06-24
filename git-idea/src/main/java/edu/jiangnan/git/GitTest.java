@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("Hello Java!");
         System.out.println("Hello Jiangnan");
         System.out.println("hot-fix modify");
+        System.out.println("github modify");
     }
 
     @Override
